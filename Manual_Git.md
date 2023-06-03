@@ -95,3 +95,5 @@ git push origin <название_ветки>
 ```
 git clone <адрес_репозитория>
 ```
+
+![Изображение](imades/imades4-2.jpg)
