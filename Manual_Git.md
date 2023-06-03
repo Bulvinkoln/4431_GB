@@ -167,3 +167,32 @@ Automatic merge failed; fix conflicts and then commit the result.
 git add index.html
 git commit -m "Merged master fixed conflict."
 ```
+
+
+## **4. Вспомогательные команды**
+Просмотреть изменения относительно двух веток можно командой:
+```
+git diff <исходная_ветка> <целевая_ветка>
+```
+
+Удалить ненужную ветку:
+```
+git branch -d <название_ветки>
+```
+
+Просмотр историю ветки:
+```
+git log
+```
+
+Подсказки по популярным командам:
+```
+# По популярным командам
+git help
+
+# Или по конкретной команде
+git help <название_команды>
+
+# Например clone
+git help clone
+```
