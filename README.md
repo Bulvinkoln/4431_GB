@@ -6,4 +6,6 @@
 
 # Сделал fork репо 4431_GB
 
+## Отправляю в свой акк  git push
 
+## ИЗ GitHub оправляю pull request
